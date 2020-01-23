@@ -1,18 +1,18 @@
-.nav {
+nav {
     background-color: #222;
     overflow: hidden;
 }
 
-.nav a {
+nav a {
     color: #eee;
     text-align: center;
     font-size: 17px;
 }
 
-.nav a:hover {
+nav a:hover {
     color: #ccc;
 }
 
-.nav a.active {
+nav a.active {
     background-color: #2222ff;
 }
