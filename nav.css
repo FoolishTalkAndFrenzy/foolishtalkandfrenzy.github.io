@@ -7,6 +7,7 @@ nav a {
     color: #eee;
     text-align: center;
     font-size: 17px;
+    text-decoration: none;
 }
 
 nav a:hover {
