@@ -1,9 +1,9 @@
-.topnav {
+.nav {
     background-color: #222;
     overflow: hidden;
 }
 
-.topnav a {
+.nav a {
     color: #eee;
     text-align: center;
     font-size: 17px;
