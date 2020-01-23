@@ -3,11 +3,11 @@ nav {
     overflow: hidden;
 }
 
-nav a, a:hover, a:visited, a:link, a:active {
+nav a {
     color: #eee;
     text-align: center;
     font-size: 17px;
-    text-decoration: none;
+    text-decoration: none !important;
 }
 
 nav a:hover {
