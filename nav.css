@@ -1,6 +1,7 @@
 nav {
     background-color: #222;
     overflow: hidden;
+    font-family: 'Lato', sans-serif;
 }
 
 nav a {
