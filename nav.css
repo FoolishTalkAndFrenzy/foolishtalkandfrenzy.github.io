@@ -6,8 +6,9 @@ nav {
 nav a {
     color: #eee;
     text-align: center;
-    font-size: 17px;
+    font-size: 34px;
     text-decoration: none !important;
+    padding: 25px 50px 25px 50px;
 }
 
 nav a:hover {
