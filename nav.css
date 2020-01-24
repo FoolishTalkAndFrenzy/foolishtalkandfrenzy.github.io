@@ -8,9 +8,9 @@ nav {
 nav a {
     color: #eee;
     text-align: center;
-    font-size: 34px;
+    font-size: 3vw;
     text-decoration: none !important;
-    padding: 25px 50px 25px 50px;
+    padding: 25px 2vw;
 }
 
 nav a:hover {
