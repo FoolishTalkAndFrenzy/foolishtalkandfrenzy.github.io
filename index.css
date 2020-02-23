@@ -1,4 +1,5 @@
 .wrapper {
     width: 25%;
     margin: auto;
+    min-width: 400px;
 }
